@@ -31,7 +31,6 @@ O projeto foi desenvolvido como parte de um exercício acadêmico na disciplina 
 ## Referências
 - SITE DA NETFLIX. Netflix. Disponível em: <https://www.netflix.com>. Acesso em: 30 set. 2025.
 - W3SCHOOLS. CSS. Disponível em: <https://www.w3schools.com/Css/>. Acesso em: 30 set. 2025.
-- W3C. CSS: Cascading Style Sheets. Disponível em: <https://www.w3.org/Style/CSS/>. Acesso em: 30 set. 2025.
 
 ## Autor
 Gabriel Saldanha Cavalcanti e Gabriel Michael Magalhães Lima
