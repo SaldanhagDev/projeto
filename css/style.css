@@ -121,3 +121,34 @@ footer nav a {
     text-decoration: none;
     margin-left: 15px;
 }
+.catalogo-lista {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.catalogo-lista li {
+    text-align: center;
+}
+
+.img {
+    width: 100px;   
+    height: 150px;  
+    overflow: hidden; 
+    border-radius: 5px;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+
+.catalogo-lista p {
+    font-size: 0.8em;
+    margin: 5px 0 0 0;
+}
